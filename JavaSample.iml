@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" exported="" name="Maven: com.github.tomakehurst:wiremock:standalone:1.58" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.slf4j:slf4j-nop:1.7.21" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/site/apidocs" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/site/testapidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/integration/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/jcl-over-slf4j/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/jcl-over-slf4j/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/jul-to-slf4j/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/jul-to-slf4j/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/log4j-over-slf4j/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/log4j-over-slf4j/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/osgi-over-slf4j/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-android/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-android/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-api/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-api/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-ext/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-ext/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-jcl/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-jcl/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-jdk14/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-jdk14/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-log4j12/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-log4j12/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-migrator/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-migrator/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-nop/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-nop/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-simple/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/slf4j-1.7.21/slf4j-simple/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/slf4j-1.7.21" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/slf4j-1.7.21" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
